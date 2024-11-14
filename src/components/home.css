@@ -1,0 +1,13 @@
+.background { height: 100vh; 
+    background-image: url('../../public/images/Bew_foto.jpg');
+    /* Pfad zum Hintergrundbild */ 
+    background-size: 70%; 
+    /* Skaliert das Bild, um den gesamten Container zu bedecken */ 
+    background-position: top; /* Zentriert das Bild */ 
+    background-repeat: no-repeat; /* Verhindert das wiederholte Anzeigen des Bildes */}
+
+    .row { display: flex; flex-direction: column; 
+        /* Ordnet alle Elemente in einer Spalte an */ 
+        align-items: right; /* Richtet die Elemente an der rechten Seite aus */ 
+        margin: 10px; padding: 20px;  /* Optional: fügt einen halbtransparenten Hintergrund hinzu */ 
+        border-radius: 8px; /* Optional: macht die Ecken abgerundet */ }

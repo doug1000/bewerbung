@@ -1,0 +1,49 @@
+{
+    "companies": [
+      {
+        "title": "Reichelt AG",
+        "zeitraum": "1994-1997",
+        "description": "Klassische Ausbildung zum Kaufmann im Einzelhandel (IHK). \nÜbernahme nach bestandender Prüfung.",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "Übergang",
+        "zeitraum": "1997-2003",
+        "description": "Zivildienst: Max-Bürger Krankenhaus \nDeSys: Kaufmann i. Einzelhandel (Mobilfunk) 1,5 Jahre\nKinder und Jugenmusem Schöneberg: Pädagogische Hilfskraft (Nebentätigkeit) 1 Jahr \nDEKRA Akademie:ORACLE Datenbank Operator (Weiterbildung) mit Praktikum bei COLT Telekom (6 Monate)\n --> Lerninhalte: PL/SQL, JAVA, HTML,Javascript ,PHP ",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "Abitur / Arbeit",
+        "zeitraum": "2003-2005",
+        "description": "Warsteiner Partyservice: Mitarbeiter im Event- und Lagerbetrieb\nFachabitur: Kläre-Bloch-Schule Abendschule\n   --> Fachabitur Wirtschaft, Wahlpflicht VWL",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "HWR-Berlin",
+        "zeitraum": "2018-2021",
+        "description": "Die Hochschule für Wirtschaft und Recht Berlin bietet eine breite Palette an Studiengängen.",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "Just Music GmbH",
+        "zeitraum": "2021-2022",
+        "description": "Just Music GmbH ist ein bekannter Musikladen in Deutschland.",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "Zalando SE",
+        "zeitraum": "2022-2023",
+        "description": "Zalando SE ist Europas führende Online-Plattform für Mode und Lifestyle.",
+        "image": "https://photos.wikimapia.org/p/00/00/72/34/46_big.jpg" 
+      },
+      {
+        "title": "Berliner Immobilien GmbH (BIM)",
+        "zeitraum": "2023-heute",
+        "description": "Die Berliner Immobilien GmbH (BIM) verwaltet und vermarktet Immobilien in Berlin.",
+        "image": "/images/bim.jpg" 
+      }
+    ]
+  }
+  
+  
+  

@@ -7,14 +7,15 @@ function ContactForm() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const mailtoLink = `mailto:andreaschrist@outlook.com?subject=Kontakt%20von%20${name}&body=${message}`;
+        const mailtoLink = `mailto:andreaschrist@outlook.com?subject=Profilanfrage von: ${name}&body=${message}`;
         window.location.href = mailtoLink;
     };
 
     return (
-        <form onSubmit={handleSubmit} className="container mt-5">
+        <form onSubmit={handleSubmit} className="container " style={{marginTop:60,padding:30}}>
             <div className="mb-3">
-                <label htmlFor="name" className="form-label">Name</label>
+                <h4>Kontakt:</h4><br />Diese Seite verwendet aus Datenschutzgründen keine Email-Webdienste. Das Formular verwendet Ihr persönliches Email-Programm<br /><br />
+                <label htmlFor="name" className="form-label">Name / Ihr Unternehmen</label>
                 <input 
                     type="text" 
                     className="form-control" 
@@ -46,7 +47,8 @@ function ContactForm() {
                     required 
                 ></textarea>
             </div>
-            <button type="submit" className="btn btn-primary">Senden</button>
+            <button type="submit" className="btn btn-primary">Senden</button><br /><br />
+            Alternativ Email an: andreaschrist@outlook.com
         </form>
     );
 }

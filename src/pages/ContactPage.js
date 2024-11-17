@@ -3,8 +3,8 @@ import ContactForm from '../components/ContactForm';
 
 function ContactPage() {
     return (
-        <div className="container mt-5">
-            <h1>Kontaktformular</h1>
+        <div className="container mt-1">
+        
             <ContactForm />
         </div>
     );

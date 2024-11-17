@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Dropdown.css';
 
 import { useSpring, animated } from '@react-spring/web'; // Importiere react-spring
 import companiesData from './companies.json'; // Importiere die JSON-Daten
@@ -23,9 +24,9 @@ function CompanyDropdown() {
 
     return (
         <div>
-            <label htmlFor="company-select">Wähle ein Unternehmen:</label>
-            <select id="company-select" onChange={handleChange}>
-                <option value="">--Bitte wählen--</option>
+            <label htmlFor="company-select" style={{ marginTop: 40,marginRight:40}}>Wähle ein Unternehmen:</label>
+            <select className='form-select form-select-bg-position' id="company-select" onChange={handleChange}>
+                <option className='form-select' value="">--Bitte wählen--</option>
                 {companiesData.companies.map((company) => (
                     <option key={company.title} value={company.title}>
                         {company.title} ({company.zeitraum})

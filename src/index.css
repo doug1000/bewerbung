@@ -1,27 +1,37 @@
 body {
   font-family: Arial, sans-serif;
+  font-size: larger;
   margin: 0;
   padding: 0;
-  background-color: #2f2f2f; /* Anthrazit */
-  color: #f0c14b; /* Gold */
+  background-color: rgb(3, 3, 3); /* Anthrazit */
+  color: rgb(245, 242, 242); /* Gold */
 }
 
 .navbar {
-  background-color: #333333; /* Dunkler Anthrazit */
+  background-color: #4170f1; /* Dunkler Anthrazit */
+ 
+}
+.navbar-collapse {
+  background-color: #4170f1; /* Dunkler Anthrazit */
+  color: #24f31c !important; /* Gold */
+  border-radius: 10px;
+  img {height:40px;width: auto;padding-left: 5px;padding-top: 5px;margin-left:1200px;}
+ 
 }
 
 .nav-link {
-  color: #f0c14b !important; /* Gold */
+  color: #24f31c !important; /* Gold */
 }
 
 .container {
-  background-color: #2f2f2f;
+  background-color: #7a7979;
   padding: 20px;
   border-radius: 8px;
 }
 
 .text-gold {
   color: #f0c14b; /* Gold */
+  
 }
 
 .img-fluid {
@@ -33,5 +43,6 @@ body {
   background-color: #f0c14b; /* Gold */
   color: #2f2f2f; /* Anthrazit */
 }
+
 
 

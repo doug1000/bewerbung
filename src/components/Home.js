@@ -6,9 +6,9 @@ import Lebenslauf from '../Lebenslauf';
 
 function Home() {
     return (
-        <div className='background'>
+        <div  className='background'>
         
-            
+            {/*
             <div className="row">
                 <div className="col-md-6 mb-4">
                 <Link className="nav-link" to="/lebenslauf"><img src="cv-96.png" className="CV" alt="CV" />Lebenslauf</Link>
@@ -22,7 +22,7 @@ function Home() {
                 <div className="col-md-6">
                     <img src="https://source.unsplash.com/random/800x600?people" className="img-fluid rounded" alt="Bild 4" />
                 </div>
-            </div>
+            </div> */}
         </div>
        
     );

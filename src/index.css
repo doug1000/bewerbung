@@ -44,5 +44,7 @@ body {
   color: #2f2f2f; /* Anthrazit */
 }
 
+body { font-size: 16px; } @media (max-width: 600px) { body { font-size: 14px; } } .container { width: 80%; } @media (max-width: 600px) { .container { width: 100%; } }
+
 
 

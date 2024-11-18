@@ -1,5 +1,5 @@
 import React from 'react';
-import CompanyDropdown from './components/CompanyDropdown';
+//import CompanyDropdown from './components/CompanyDropdown';
 import ToggleList from './components/ToggleList';
 
 function Lebenslauf() {

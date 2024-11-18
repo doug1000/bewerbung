@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bewerbung/static/css/main.5b36509f.css",
+    "main.js": "/bewerbung/static/js/main.897954ac.js",
+    "static/js/453.8449db74.chunk.js": "/bewerbung/static/js/453.8449db74.chunk.js",
+    "static/media/Bew_foto.jpg": "/bewerbung/static/media/Bew_foto.3b74fdfb443f78b8e49d.jpg",
+    "index.html": "/bewerbung/index.html",
+    "main.5b36509f.css.map": "/bewerbung/static/css/main.5b36509f.css.map",
+    "main.897954ac.js.map": "/bewerbung/static/js/main.897954ac.js.map",
+    "453.8449db74.chunk.js.map": "/bewerbung/static/js/453.8449db74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b36509f.css",
+    "static/js/main.897954ac.js"
+  ]
+}

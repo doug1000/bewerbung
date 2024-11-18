@@ -29,7 +29,7 @@ function Footer() {
                     <span style={{marginLeft:15, marginRight:15}}><b>Studium (Economics VWL):</b> </span>                       
 <img src="https://bilder.academics.de/hwr_logo_rgb_farbig.jpg?auto=format&h=110&w=200" alt="Google" className="ticker-icon" />
 
-<span style={{marginLeft:15, marginRight:15}}><b>Foolow me on Xing:</b> </span>
+<span style={{marginLeft:15, marginRight:15}}><b>Follow me on Xing:</b> </span>
     <a href="https://www.xing.com/profile/Andreas_Christ43" target="_blank"> <img className="ticker-icon" src="https://cdn.icon-icons.com/icons2/201/PNG/512/xing_512_24330.png" alt="Folgen auf Xing" /></a>
 
                 

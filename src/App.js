@@ -53,6 +53,7 @@ function App() {
                     <Route path="/lebenslauf" element={<Lebenslauf />} />
                     <Route path="/motivation" element={<Motivation />} />
                 </Routes>
+                <HomePage />
                 <Footer />
             </div>
         </Router>

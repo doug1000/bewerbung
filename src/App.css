@@ -37,5 +37,16 @@
     transform: rotate(360deg);
   }
 }
+.background { 
+  margin-top: 150;
+  height: 100vh; 
+  background-image: url('Bew_foto.jpg');
+  /* Pfad zum Hintergrundbild */ 
+  background-size: calc(100% - 25%); 
+  /* Skaliert das Bild, um den gesamten Container zu bedecken */ 
+  background-position: center; /* Zentriert das Bild */ 
+  background-repeat: no-repeat; /* Verhindert das wiederholte Anzeigen des Bildes */
+  background-color: black;
+}
 
 

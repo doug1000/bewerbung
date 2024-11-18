@@ -8,6 +8,8 @@ import Footer from './Footer'; // Importiere die Footer-Komponente import './App
 
 //import './App.css';
 
+ReactDOM.render( <BrowserRouter basename={process.env.PUBLIC_URL}> <App /> </BrowserRouter>, document.getElementById('root') );
+
 function App() {
     return (
         <Router>

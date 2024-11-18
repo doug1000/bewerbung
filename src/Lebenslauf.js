@@ -4,7 +4,7 @@ import ToggleList from './components/ToggleList';
 
 function Lebenslauf() {
     return (
-        <div className="container">
+        <div className="container" style="marginTop:50">
             <h1 className="text-gold">Lebenslauf</h1>
 
 

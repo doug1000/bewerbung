@@ -5,7 +5,7 @@ import ContactPage from './pages/ContactPage';
 import Lebenslauf from './Lebenslauf';
 import Motivation from './pages/Motivation';
 import Footer from './Footer'; // Importiere die Footer-Komponente import './App.css';
-
+import './App.css';
 //import './App.css';
 
 
